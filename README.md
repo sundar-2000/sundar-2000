@@ -17,8 +17,8 @@
 <h2 align="center">My Projects 💻</h2>
 <br />
 <p align="center">
-   <a href="https://github.com/3-bro-grammers/Quizz_app">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=3-bro-grammers&repo=Quizz_app&theme=radical" style="margin:15px" />
+   <a href="https://github.com/3-bro-grammers/Quizinato">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=3-bro-grammers&repo=Quizinato&theme=radical" style="margin:15px" />
    </a> 
    <a href="https://github.com/sundar-2000/news-app">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sundar-2000&repo=news-app&theme=radical" style="margin:15px" />
